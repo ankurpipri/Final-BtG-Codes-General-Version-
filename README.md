@@ -2,7 +2,7 @@
 
 This repository contains the required MATLAB codes for the following research papers:
 
-1. A.F.Taha, N.Gatsis, B. Dong, A.Pipri, Z.Li, "Buildings-to-Grid Integration Framework" submitted to IEEE Trans. on Smart Grids, submitted March 2017.
+1. A.F.Taha, N.Gatsis, B. Dong, A.Pipri, Z.Li, "Buildings-to-Grid Integration Framework" submitted to IEEE Trans. on Smart Grids, accepted for publication, October 2017. https://arxiv.org/abs/1706.05626
 
 2. Z.Li, A.Pipri, B.Dong, N.Gatsis, A.F.Taha, N.Yu, "Modelling, Simulation and Control of Smart and Connected Communities" submitted to International Building Performance Simulation Association , Building Simulation Conference 2017.
 
